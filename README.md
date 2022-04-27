@@ -5,5 +5,7 @@ Made by [CXgraphics](https://github.com/cxgraphics1) :)
 
 Open inside of command prompt or similar software - type 'node .' and you will be prompted with all of the prompts
 
+![Video Tutorial](https://youtu.be/EEKYuLv5U1s)
+
 ## License
 This project is licensed under the [MIT LICENSE](https://github.com/CXgraphics1/SImple-Info-Manager/blob/main/LICENSE).
