@@ -24,7 +24,7 @@ module.exports.selectPassword = async () => {
     });
 
     this.updatePassword(`_${password.password}`);
-    closeSync();
+    closeSync(0);
     return password.password;
 };
 
